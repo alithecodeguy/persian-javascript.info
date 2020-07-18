@@ -1,2 +1,8 @@
 # persian-javascript.info
-persian version of javascript.info website
+
+نسخه فارسی داکیومنت های جاوااسکریپت در سایت :
+javascript.info
+
+در حال تکمیل تدریجی...
+
+هرگونه انتقاد پذیرفته میشه :دی
